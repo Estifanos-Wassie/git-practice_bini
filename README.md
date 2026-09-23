@@ -10,3 +10,6 @@ I found this article interesting because it discusses how AI is changing softwar
 
 This topic is especially interesting to me because I am interested in AI and software development. I think learning how to use AI tools effectively while still developing strong programming and software engineering skills will be increasingly important for developers.
 comment
+## Comment from estifanos
+
+I found this article interesting because it shows how AI can support software developers while still requiring developers to understand and review the code being produced.
