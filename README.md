@@ -9,3 +9,4 @@ A simple project to practice a few git/github workflows.  Replace the contents o
 I found this article interesting because it discusses how AI is changing software development while also emphasizing that developers still need to understand the code they are working with. AI can help developers generate code and work faster, but developers are still responsible for understanding, reviewing, and verifying the results.
 
 This topic is especially interesting to me because I am interested in AI and software development. I think learning how to use AI tools effectively while still developing strong programming and software engineering skills will be increasingly important for developers.
+comment
